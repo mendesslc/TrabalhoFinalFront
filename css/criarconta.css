@@ -112,12 +112,12 @@ header {
 form {
     width: 900px;
     height: auto;
-    background-color: #e7e5e5;  
+    background-color: #1E90FF;  
     padding: 20px;  
-    border: 5px solid #6e6e6e; 
-    border-radius: 5px;  
+    border: 5px solid #FF8C00; 
+    border-radius: 30px;  
     margin-bottom: 0px;
-    margin-left: 205px;
+    margin-left: 140px;
 }
 .form-control {
     border: 1px solid #000000;
